@@ -68,7 +68,7 @@ Si quieres ver tus clases funcionando, usa `ejercicios/PruebaBanco.java` (ese ar
 
 ### ¿Quedó bien?
 
-Arriba a la izquierda debe decir **tu-usuario / Lab_BancoJava_CH15**, y debajo, en letra pequeña, *forked from* la cuenta de la profe.
+Arriba a la izquierda debe decir **tu-usuario / Lab_BancoJavaMj3_CH15**, y debajo, en letra pequeña, *forked from* la cuenta de la profe.
 
 ---
 
@@ -84,12 +84,12 @@ Abre **Git Bash** (o la terminal que uses) en la carpeta donde guardas tus proye
 
 ```bash
 git clone URL-DE-TU-FORK
-cd Lab_BancoJava_CH15
+cd Lab_BancoJavaMj3_CH15
 ```
 
 ### Ábrelo en IntelliJ IDEA
 
-**File → Open** → elige la carpeta `Lab_BancoJava_CH15` → **Open**.
+**File → Open** → elige la carpeta `Lab_BancoJavaMj3_CH15` → **Open**.
 
 ### Prepara la carpeta de ejercicios (una sola vez)
 
