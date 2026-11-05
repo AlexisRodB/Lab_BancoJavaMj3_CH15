@@ -1,0 +1,9 @@
+{
+  "name": "lab-banco-java-ch15",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Lab Mj3 calificable · Banco Cordillera · clases, métodos y excepciones · Generation Colombia Cohorte 15",
+  "scripts": {
+    "test": "node scripts/calificar.js"
+  }
+}

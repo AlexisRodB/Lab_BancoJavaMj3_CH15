@@ -1,0 +1,41 @@
+{
+  "curso": "🏦 Banco Cordillera · Lab Mj3 (clases, métodos y excepciones)",
+  "fechaLimite": "",
+  "patronTest": "^test\\(",
+  "entregables": [
+    "ejercicios/"
+  ],
+  "protegidos": [
+    "tests/",
+    "scripts/",
+    ".github/",
+    "package.json"
+  ],
+  "ejercicios": [
+    {
+      "id": "01",
+      "titulo": "Constructor y setter · Titular",
+      "test": "tests/01-titular.test.js"
+    },
+    {
+      "id": "02",
+      "titulo": "Métodos y estado · CuentaAhorros",
+      "test": "tests/02-cuenta-ahorros.test.js"
+    },
+    {
+      "id": "03",
+      "titulo": "Retorno y sobrecarga · Cdt",
+      "test": "tests/03-cdt.test.js"
+    },
+    {
+      "id": "04",
+      "titulo": "static y constantes · Tarifas",
+      "test": "tests/04-tarifas.test.js"
+    },
+    {
+      "id": "05",
+      "titulo": "Integrador try/catch · Cajero",
+      "test": "tests/05-cajero.test.js"
+    }
+  ]
+}
